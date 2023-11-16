@@ -1,13 +1,17 @@
 {
   "name": "chbs-passwords",
   "version": "1.0.0",
-  "description": "",
+  "description": "CHBS passwords creates passwords in the style of Correct Horse Battery Staple passwords",
   "type": "commonjs",
   "main": "bin/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/samshaiza/chbs-passwords.git"
+  },
+  "keywords": ["chbs", "passwords"],
   "bin": {
     "chbs": "./bin/index.js"
   },
