@@ -8,7 +8,7 @@ Directly inspired by [quantum5](https://github.com/quantum5/correcthorsebatterys
 
 ## Requirements
 
-- node.js
+- Node.js
 
 ## Options
 
